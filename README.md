@@ -1,6 +1,12 @@
 # shemoji
 
 <p align="center">
+  <a href="#ukrainian">🇺🇦 Українська</a>
+  ·
+  <a href="#english">🇬🇧 English</a>
+</p>
+
+<p align="center">
   <img src="./assets/readme/shemoji-preview.png" alt="shemoji Telegram preview" width="100%" />
 </p>
 
@@ -11,17 +17,11 @@
   <img src="https://img.shields.io/badge/Pillow-12.0-DB7093" alt="Pillow 12.0" />
 </p>
 
-<p align="center">
-  <a href="#ukrainian">Українська</a>
-  ·
-  <a href="#english">English</a>
-</p>
-
 ---
 
 <a id="ukrainian"></a>
 
-## Українська
+## 🇺🇦 Українська
 
 `shemoji` — це Telegram-бот, який перетворює зображення, відео, GIF, відеоповідомлення, стікери та преміум-емодзі на набори кастомних емодзі для Telegram.
 
@@ -137,7 +137,7 @@ shemoji/
 
 <a id="english"></a>
 
-## English
+## 🇬🇧 English
 
 `shemoji` is a Telegram bot that turns images, videos, GIFs, video messages, stickers, and premium emoji into Telegram custom emoji packs.
 
